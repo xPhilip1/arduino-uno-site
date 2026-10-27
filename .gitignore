@@ -1,0 +1,7 @@
+# Arduino / 编译产物
+build/
+*.hex
+*.elf
+*.bin
+*.map
+.vscode/
